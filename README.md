@@ -4,7 +4,7 @@ A simple blog web application built using **Spring Boot**, **PostgreSQL**, and *
 
 - clone the repo
 ``` bash
-
+ https://github.com/Vamsipradeep588/Blog.git
 ```
 ---
 
